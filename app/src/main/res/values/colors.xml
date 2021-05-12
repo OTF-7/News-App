@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#061826</color>
+    <color name="color_secondary">#0D1B2A</color>
+    <color name="colorPrimaryVariant">#1B263B</color>
+    <color name="colorOnPrimary">#415A77</color>
+    <color name="colorSecondaryVariant">#778DA9</color>
+    <color name="colorOnSecondary">#E0E1DD</color>
+
+    <color name="color_text_primary">#EDF2F4</color>
+    <color name="color_text_secondary">#061826</color>
+    <color name="light_red">#FFFF6584</color>
+
+
+    <!-- gradients -->
+    <color name="color_background_gradient4_start">#EBF4F5</color>
+    <color name="color_background_gradient4_end">#B5C6E0</color>
+    <!-- backgrounds -->
+    <color name="color_background_first_screen">#EBF4F5</color>
+    <color name="color_background_list_item">#F9FBFB</color>
+
+    <!-- Action bar colors -->
+    <color name="blue">#1E6C8E</color>
+    <color name="red">#e63946</color>
+    <color name="green">#06d6a0</color>
+    <color name="sky_blue">#A4C6B8</color>
+    <color name="dark_green">#FF097E98</color>
+    <color name="light_green">#FF57B894</color>
+</resources>

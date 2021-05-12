@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">mock news app</string>
+    <string name="long_place_holder">Long Text placeHolder ..................</string>
+    <string name="place_holder">Place holder</string>
+    <string name="news_type">News Type</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_limit_label">Limit of stories</string>
+    <string name="settings_limit_key" translatable="false">page-size</string>
+    <string name="settings_limit_default" translatable="false">20</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_relevance_label">Relevance</string>
+    <string name="settings_order_relevance_value" translatable="false">relevance</string>
+
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="on_boarding">On boarding</string>
+    <string name="news_app">News app</string>
+    <string name="all_your_interested_news">All your interested news in one place</string>
+    <string name="live_blog">liveblog</string>
+    <string name="article">article</string>
+    <string name="technical_stuff">Technical stuff</string>
+    <string name="coding">Last  programming and coding news</string>
+    <string name="political_news">Political news</string>
+    <string name="politics">Last news about polotics</string>
+    <string name="sport_news">Sporty news</string>
+    <string name="updated_sport_news">It covers the most updated sport news</string>
+    <string name="order_by">order-by</string>
+    <string name="search_charachter">q</string>
+    <string name="limit_of_stories">page-size</string>
+    <string name="start_date">from-date</string>
+    <string name="end_date">to-date</string>
+    <string name="connection_failing">Check your connection</string>
+    <string name="search">Search</string>
+    <string name="show_tags">show-tags</string>
+    <string name="api_key">api-key</string>
+    <string name="there_is_no_data">There is no any data to be shown</string>
+    <string name="author_label">The author/s :</string>
+</resources>
